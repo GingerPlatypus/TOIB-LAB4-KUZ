@@ -4,32 +4,32 @@
 
 ## 1. Создание ключевой пары GPG
 
-![](./screenshots/01.png)
-![](./screenshots/02.png)
+![](./screenshots/1.png)
+![](./screenshots/2.png)
 
 ## 2. Просмотр созданных ключей, подписей, отпечатков
 
-![](./screenshots/03.png)
+![](./screenshots/3.png)
 
 ## 3. Создание отзывающего сертификата
 
 3.1 Вывод сертификата в `stdout`:
 
-![](./screenshots/04.png)
+![](./screenshots/4.png)
 
 3.2 Запись сертификата в файл: 
 
-![](./screenshots/05.png)
+![](./screenshots/5.png)
 
 ## 4. Экспорт публичного ключа в бинарном и текстовом виде
 
-![](./screenshots/06.png)
-![](./screenshots/07.png)
-![](./screenshots/08.png)
+![](./screenshots/6.png)
+![](./screenshots/7.png)
+![](./screenshots/8.png)
 
 ## 5. Создание файла для подписи
 
-![](./screenshots/09.png)
+![](./screenshots/9.png)
 
 ## 6. Создание цифровой подписи в бинарном виде
 
